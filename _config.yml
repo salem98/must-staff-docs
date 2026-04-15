@@ -1,0 +1,33 @@
+title: MUST Mobile Staff Guide
+description: How to use the MUST Mobile app — clock in/out, leave, expenses, and attendance.
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+color_scheme: light
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 2
+  preview_words_before: 3
+  preview_words_after: 3
+
+heading_anchors: true
+
+aux_links:
+  "Download on Google Play": "#"
+  "Download on App Store": "#"
+
+aux_links_new_tab: true
+
+footer_content: "MUST Mobile Staff Guide — internal use. Contact HR if you hit any issue not covered here."
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
