@@ -33,8 +33,8 @@ File expense claims with receipts. Approved claims are reimbursed in your next p
 5. **Attach the receipt** — take a photo or upload an existing image/PDF.
 6. Tap **Submit**.
 
-![Expense form placeholder](assets/images/placeholder.svg)
-*Screenshot: Expense submission form with receipt attached*
+![New Expense form](assets/images/new-expense-form.png){: .d-block .mx-auto style="max-width: 320px;" }
+*New Expense form — pick a category, enter amount, date, and attach a receipt before submitting.*
 {: .text-center .fs-3 .text-grey-dk-000 }
 
 > **Tip:** photograph your receipt right after the purchase. Thermal-printed receipts fade fast and may be unreadable by the time you claim.
@@ -69,6 +69,10 @@ Tap **Expenses** to see all your claims:
 - **Approved** — waiting for finance to process payment
 - **Paid** — reimbursed
 - **Rejected** — tap to see the reason
+
+![Expenses & Claims list](assets/images/expenses-list.png){: .d-block .mx-auto style="max-width: 320px;" }
+*The Summary strip at the top shows your totals (pending vs approved). Tap the **+** button bottom-right to create a new claim.*
+{: .text-center .fs-3 .text-grey-dk-000 }
 
 ## Edit or delete a draft
 

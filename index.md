@@ -15,6 +15,10 @@ Everything you need to use the MUST Mobile app on your phone — clock in/out, r
 [Get the app (Android)](#){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Get the app (iOS)](#){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+![Home dashboard — the screen you see after logging in](assets/images/home-dashboard.png){: .d-block .mx-auto style="max-width: 320px;" }
+*The Home screen — clock in, see your shift, and open other sections from the bottom nav.*
+{: .text-center .fs-3 .text-grey-dk-000 }
+
 ---
 
 ## What you'll learn
@@ -31,6 +35,10 @@ Everything you need to use the MUST Mobile app on your phone — clock in/out, r
 1. **Install the app** from Google Play or the App Store (links above).
 2. **Log in** with your company email and the password HR gave you.
 3. **Allow location and notification permissions** when prompted — these are needed for clock-in and shift reminders.
+
+![My Profile — check your LAM ID, manager, and company](assets/images/my-profile.png){: .d-block .mx-auto style="max-width: 320px;" }
+*After logging in, the Profile tab shows your LAM ID, manager, and company. If anything here is wrong, tell HR.*
+{: .text-center .fs-3 .text-grey-dk-000 }
 
 > **Forgot password or can't log in?** Contact HR. Do not create a second account.
 

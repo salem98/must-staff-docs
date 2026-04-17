@@ -30,8 +30,8 @@ Check your attendance history, shift schedule, overtime, and working hours. Catc
    - Total hours
    - Status (on time, late, early leave, overtime)
 
-![Attendance list placeholder](assets/images/placeholder.svg)
-*Screenshot: Attendance records list*
+![Monthly Report — Hours Summary and OT Breakdown](assets/images/monthly-report.png){: .d-block .mx-auto style="max-width: 320px;" }
+*Monthly Report shows total hours, Normal vs OT split, OT1/OT2 breakdown, and shift distribution (day/night).*
 {: .text-center .fs-3 .text-grey-dk-000 }
 
 ## Filter by date
@@ -62,11 +62,24 @@ Check your attendance history, shift schedule, overtime, and working hours. Catc
    - Public holidays
    - Pre-approved leave
 
-![Schedule calendar placeholder](assets/images/placeholder.svg)
-*Screenshot: Schedule calendar view*
+![Schedule — Weekly Overview](assets/images/schedule-weekly.png){: .d-block .mx-auto style="max-width: 320px;" }
+*Schedule shows your weekly hours as a bar chart and each day's shift details (In/Out, Late, Under, OT). Access it from the Clock tab.*
 {: .text-center .fs-3 .text-grey-dk-000 }
 
 Tap any day to see shift details (start time, end time, break, location).
+
+### Amend your own clock-in/out time
+
+If you forgot to clock in or clocked out late, you can request a correction from the Schedule screen:
+
+1. Open **Schedule** (inside the Clock tab).
+2. **Long press** on the day you want to amend.
+3. Enter the correct In/Out time and a short reason.
+4. Submit — your manager reviews and approves.
+
+![Long press on a day to amend its clock-in/out time](assets/images/schedule-amend-time.png){: .d-block .mx-auto style="max-width: 320px;" }
+*Long-press a day in the Schedule view to request a time amendment. An "Amended" badge appears on days that have been edited and are awaiting approval.*
+{: .text-center .fs-3 .text-grey-dk-000 }
 
 ## Export your records
 

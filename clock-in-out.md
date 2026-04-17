@@ -26,8 +26,8 @@ Start and end your workday from the app. The company uses this to calculate your
 3. Allow the app to use your location if asked.
 4. Wait for the success message. Your clock-in time appears at the top of the screen.
 
-![Clock in screen placeholder](assets/images/placeholder.svg)
-*Screenshot: Clock In button on the Home screen*
+![Clock In button on the Home screen](assets/images/home-dashboard.png){: .d-block .mx-auto style="max-width: 320px;" }
+*The Clock In button is the large white button on the Home screen. Your scheduled shift (e.g. 08:00 - 17:00) shows next to it.*
 {: .text-center .fs-3 .text-grey-dk-000 }
 
 **What gets recorded:** your check-in time, GPS location, and the device you used.
@@ -39,9 +39,7 @@ Start and end your workday from the app. The company uses this to calculate your
 3. Confirm the action.
 4. Your total hours for the day appear on screen.
 
-![Clock out screen placeholder](assets/images/placeholder.svg)
-*Screenshot: Clock Out confirmation*
-{: .text-center .fs-3 .text-grey-dk-000 }
+> The Clock-In button turns into **Clock Out** automatically once you've clocked in. You don't need to navigate anywhere else.
 
 ## Break time
 

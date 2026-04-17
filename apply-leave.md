@@ -32,8 +32,8 @@ Submit leave requests directly from the app. Requests go to your manager for app
 5. Attach a supporting document if the leave type requires it (e.g. medical certificate for sick leave).
 6. Tap **Submit**.
 
-![Leave request form placeholder](assets/images/placeholder.svg)
-*Screenshot: New leave request form*
+![Apply for Leave dialog](assets/images/apply-leave-dialog.png){: .d-block .mx-auto style="max-width: 320px;" }
+*New leave request form — pick the type, date range, and optional reason.*
 {: .text-center .fs-3 .text-grey-dk-000 }
 
 ## Leave types
@@ -57,6 +57,10 @@ Submit leave requests directly from the app. Requests go to your manager for app
    - **Approved** — confirmed, your balance is updated
    - **Rejected** — see the reason by tapping the request
    - **Cancelled** — you or your manager cancelled it
+
+![Time Off — My Requests list](assets/images/leave-list.png){: .d-block .mx-auto style="max-width: 320px;" }
+*Each card shows the leave type, date range, and status. Filter by All / Pending / Approved / Refused at the top.*
+{: .text-center .fs-3 .text-grey-dk-000 }
 
 ## Cancel a pending request
 
