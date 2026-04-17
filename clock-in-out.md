@@ -41,15 +41,6 @@ Start and end your workday from the app. The company uses this to calculate your
 
 > The Clock-In button turns into **Clock Out** automatically once you've clocked in. You don't need to navigate anywhere else.
 
-## Break time
-
-If your shift requires logging breaks:
-
-1. Tap **Start Break** when you step away.
-2. Tap **End Break** when you return.
-
-Break time is deducted automatically from your working hours.
-
 ## Common issues
 
 ### "Location not available"

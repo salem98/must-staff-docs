@@ -43,7 +43,8 @@ File expense claims with receipts. Approved claims are reimbursed in your next p
 
 | Category | Typical examples |
 |:---------|:-----------------|
-| **Meals & Entertainment** | Client meals, team dinners (with approval) |
+| **Meals & Entertainment** | Meals while on site / during overtime / client meals (with approval) |
+| **Medical Claims** | Clinic visits, medication, company-covered medical expenses |
 | **Transport** | Taxi, ride-share, train, parking, tolls |
 | **Accommodation** | Hotel for business travel |
 | **Office Supplies** | Stationery, small equipment |

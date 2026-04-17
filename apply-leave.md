@@ -41,9 +41,9 @@ Submit leave requests directly from the app. Requests go to your manager for app
 | Type | When to use | Needs proof? |
 |:-----|:------------|:-------------|
 | **Annual leave** | Planned time off, vacation | No |
-| **Sick leave** | Illness or medical appointment | Yes, for 2+ consecutive days |
+| **Sick leave** | Illness or medical appointment | Yes — MC must be attached, even for 1 day |
 | **Unpaid leave** | When you've exhausted paid leave | Manager discretion |
-| **Compassionate leave** | Family bereavement | Sometimes required |
+| **Compassionate leave** | Family bereavement | Yes — death certificate must be attached |
 | **Marriage leave** | Your own wedding | Marriage certificate |
 | **Maternity / Paternity** | Childbirth | Birth documentation |
 

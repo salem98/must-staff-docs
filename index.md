@@ -30,8 +30,6 @@ This app is how the company tracks **your attendance, overtime, leave, and expen
 
 - **Your pay is calculated from this data.** Late clock-in, missing clock-out, or wrong times mean wrong hours — and wrong pay. Fixing it after payroll has closed is slow and painful for everyone.
 - **Overtime (OT) needs to be earned on record.** OT only counts if your clock-in/out shows you actually worked beyond your scheduled shift. Work without a record = unpaid work.
-- **Compliance.** Singapore and Malaysia labor law both require accurate daily attendance records. The company needs these to protect you and to answer any audit or client query.
-- **Client billing.** For site-based and project work, the hours you clock drive what we bill the client. Inaccurate records hurt the company's revenue and your team's reputation.
 - **Your safety.** GPS + timezone data at clock-in tell us which site you're on. If something happens — incident, emergency, site lock-down — we know where you are and can respond.
 - **Fairness.** Every colleague is on the same system. Clocking accurately keeps leave, OT, and standby allowances fair across the whole team.
 
