@@ -17,8 +17,8 @@ search:
 heading_anchors: true
 
 aux_links:
-  "Download on Google Play": "#"
-  "Download on App Store": "#"
+  "Get it on Google Play": "https://play.google.com/store/apps/details?id=asia.technext.musthrms&hl=en"
+  "Get it on the App Store": "https://apps.apple.com/sg/app/must-hrms/id6759428659"
 
 aux_links_new_tab: true
 
